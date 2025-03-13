@@ -2,7 +2,7 @@
 <div align="center" id = "user-content-toc">
 <img align="left" width="70" height="70" src="https://github.com/user-attachments/assets/c61cec76-3c4b-42eb-8c65-f07e0166b7d8" alt="">
   
-  # [FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations](https://hmrishavbandy.github.io/flipsketch-web/)
+  # [FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations [CVPR 2025] ](https://hmrishavbandy.github.io/flipsketch-web/)
   [![arXiv](https://img.shields.io/badge/arXiv-2411.10818-b31b1b.svg)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2411.10818)) [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/Hmrishav/FlipSketch)
  <br>
 [Hmrishav Bandyopadhyay](https://hmrishavbandy.github.io/) . [Yi-Zhe Song](https://personalpages.surrey.ac.uk/y.song/)
