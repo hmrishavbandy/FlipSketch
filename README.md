@@ -80,12 +80,9 @@ To use the codebase with PyTorch2.0, modify [here](https://github.com/hmrishavba
 If you find **FlipSketch** useful, consider citing our work: 
 
 ```bibtex
-@misc{bandyopadhyay2024flipsketch,
+@inproceedings{bandyopadhyay2024flipsketch,
   title={FlipSketch: Flipping static Drawings to Text-Guided Sketch Animations}, 
   author={Hmrishav Bandyopadhyay and Yi-Zhe Song},
-  year={2024},
-  eprint={2411.10818},
-  archivePrefix={arXiv},
-  primaryClass={cs.GR},
-  url={https://arxiv.org/abs/2411.10818}, 
+  booktitle={CVPR},
+  year={2025}
 }
