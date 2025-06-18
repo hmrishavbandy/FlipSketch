@@ -6,12 +6,16 @@
   [![arXiv](https://img.shields.io/badge/arXiv-2411.10818-b31b1b.svg)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2411.10818)) [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/Hmrishav/FlipSketch)
  <br>
 [Hmrishav Bandyopadhyay](https://hmrishavbandy.github.io/) . [Yi-Zhe Song](https://personalpages.surrey.ac.uk/y.song/)
-</div>
+<!-- </div> -->
 
 
-https://github.com/user-attachments/assets/de8f2cef-3123-4a98-90e0-af59631a00f4
 
-<div align="center"> 
+<!-- https://github.com/user-attachments/assets/de8f2cef-3123-4a98-90e0-af59631a00f4 -->
+
+<!-- <div align="center"> -->
+
+  ![poster_cvpr 001](https://github.com/user-attachments/assets/96772f55-a0c8-441b-8c5e-aaf22e54abd4)
+
 
 ## ✨ Sketch + Text &#8594; Animation ✨
 
